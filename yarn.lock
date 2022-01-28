@@ -181,6 +181,13 @@
     minimatch "^3.0.4"
     strip-json-comments "^3.1.1"
 
+"@fxts/core@^0.4.2":
+  version "0.4.2"
+  resolved "https://registry.yarnpkg.com/@fxts/core/-/core-0.4.2.tgz#3cce671776a233d42e466858c380ace19489052e"
+  integrity sha512-+XVHw5GMfkBiguhQ7ZzBXHwHRZK7UVD5B3kdFgiADhhKK8XHYw3f+f4uvYA1gcAQa2MNsmIkpTtIop7CorugBw==
+  dependencies:
+    tslib "^2.3.1"
+
 "@hapi/accept@5.0.2":
   version "5.0.2"
   resolved "https://registry.yarnpkg.com/@hapi/accept/-/accept-5.0.2.tgz#ab7043b037e68b722f93f376afb05e85c0699523"
@@ -3089,7 +3096,7 @@ ts-pnp@^1.1.6:
   resolved "https://registry.yarnpkg.com/ts-pnp/-/ts-pnp-1.2.0.tgz#a500ad084b0798f1c3071af391e65912c86bca92"
   integrity sha512-csd+vJOb/gkzvcCHgTGSChYpy5f1/XKNsmvBGO4JXS+z1v2HobugDz4s1IeFXM3wZB44uczs+eazB5Q/ccdhQw==
 
-tslib@^2.0.0, tslib@^2.1.0:
+tslib@^2.0.0, tslib@^2.1.0, tslib@^2.3.1:
   version "2.3.1"
   resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.3.1.tgz#e8a335add5ceae51aa261d32a490158ef042ef01"
   integrity sha512-77EbyPPpMz+FRFRuAFlWMtmgUWGe9UOG2Z25NqCwiIjRhOf5iKGuzSe5P2w1laq+FkRy4p+PCuVkJSGkzTEKVw==
